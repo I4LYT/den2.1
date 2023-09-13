@@ -1,4 +1,4 @@
-Yall give cred to 3kh0 cuz he actually mad the website, this is just so I can run this on netlify. Website right [here](https://den2.netlify.app)
+Yall give cred to 3kh0 cuz he actually made the website, this is just so I can run this on netlify. Website right [here](https://den2.netlify.app)
 
 
 
