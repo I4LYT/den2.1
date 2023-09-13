@@ -1,4 +1,5 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/33351a3c-4beb-47f8-b830-1977064ed28c/deploy-status)](https://app.netlify.com/sites/den2/deploys)
+Yall give cred to 3kh0 cuz he actually mad the website, this is just so I can run this on netlify. Website right [here](den2.netlify.app)
+
 
 
 ## This website has been shutdown.
