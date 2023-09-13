@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/33351a3c-4beb-47f8-b830-1977064ed28c/deploy-status)](https://app.netlify.com/sites/den2/deploys)
+
+
 ## This website has been shutdown.
 
 Hello everyone,
